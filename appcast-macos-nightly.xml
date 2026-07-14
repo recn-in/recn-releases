@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>RECN Rec</title>
+    <item>
+      <title>nightly-v1.0.2-31</title>
+      <pubDate>Tue, 14 Jul 2026 12:15:57 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.0.2-nightly.31</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/nightly-v1.0.2-31</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/nightly-v1.0.2-31/RECN-Rec-1.0.2-nightly.31.dmg" length="39392528" type="application/octet-stream" sparkle:edSignature="IQRL1DG0GogF1RbHdgTPPbYv9IJLZO7GigwPfNjniM8DT1B0D5xMuwZ5ooHNzBbcHn17FWoMS5I28PVV6bL2BA==" />
+    </item>
+  </channel>
+</rss>
