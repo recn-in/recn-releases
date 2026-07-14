@@ -3,6 +3,14 @@
   <channel>
     <title>RECN Rec</title>
     <item>
+      <title>nightly-v1.0.2-32</title>
+      <pubDate>Tue, 14 Jul 2026 15:27:55 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.0.2-nightly.32</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/nightly-v1.0.2-32</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/nightly-v1.0.2-32/RECN-Rec-1.0.2-nightly.32.dmg" length="39406259" type="application/octet-stream" sparkle:edSignature="o9eliYEows2Thl//y/Qk2XIMazQ/ZTIaHAlqfOaj42W6A1FGUxYxQAaQExRT6UwsQw9dWh5FdUer/jzPoMdSAQ==" />
+    </item>
+    <item>
       <title>nightly-v1.0.2-31</title>
       <pubDate>Tue, 14 Jul 2026 12:15:57 +0000</pubDate>
       <sparkle:version>31</sparkle:version>
