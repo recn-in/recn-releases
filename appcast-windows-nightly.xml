@@ -3,6 +3,14 @@
   <channel>
     <title>RECN Rec</title>
     <item>
+      <title>nightly-v1.0.3-34</title>
+      <pubDate>Wed, 15 Jul 2026 01:06:42 +0000</pubDate>
+      <sparkle:version>1.0.3+34</sparkle:version>
+      <sparkle:shortVersionString>1.0.3-nightly.34</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/nightly-v1.0.3-34</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/nightly-v1.0.3-34/recn-rec-desktop-setup-1.0.3-nightly.34.exe" length="21612224" type="application/octet-stream" />
+    </item>
+    <item>
       <title>nightly-v1.0.3-33</title>
       <pubDate>Tue, 14 Jul 2026 17:49:31 +0000</pubDate>
       <sparkle:version>1.0.3+33</sparkle:version>
