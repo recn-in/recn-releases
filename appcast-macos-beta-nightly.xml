@@ -3,6 +3,14 @@
   <channel>
     <title>RECN Rec</title>
     <item>
+      <title>v0.0.1-beta-nightly.40</title>
+      <pubDate>Wed, 15 Jul 2026 14:09:03 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.40</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.40</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.40/RECN-Rec-0.0.1-beta-nightly.40.dmg" length="40019832" type="application/octet-stream" sparkle:edSignature="mGZm1SriiKEveyLSy6rMK8DiWQiwO5/6JizinWpp/sjHYJvAJLbNTuSz0W4go+ys/iWFLTVuSYsHqlKhEAjFDw==" />
+    </item>
+    <item>
       <title>v0.0.1-beta-nightly.39</title>
       <pubDate>Wed, 15 Jul 2026 07:57:36 +0000</pubDate>
       <sparkle:version>39</sparkle:version>
