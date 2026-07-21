@@ -3,12 +3,12 @@
   <channel>
     <title>RECN Rec</title>
     <item>
-      <title>v0.0.1-beta-nightly.81</title>
-      <pubDate>Tue, 21 Jul 2026 08:59:41 +0000</pubDate>
-      <sparkle:version>81</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.81</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.81</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.81/RECN-Rec-0.0.1-beta-nightly.81.dmg" length="60149320" type="application/octet-stream" sparkle:edSignature="i02YC+v9rAxO5D8tCJKWy69oBc3oqt+omlkAqWNrMuoYd0eNgoQfKhdlV9FfNonokCHKfaeQPKiyX2aYajbLDQ==" />
+      <title>v0.0.1-beta-nightly.82</title>
+      <pubDate>Tue, 21 Jul 2026 09:10:02 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.82</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.82</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.82/RECN-Rec-0.0.1-beta-nightly.82.dmg" length="60149191" type="application/octet-stream" sparkle:edSignature="a+tB04uGLVusa+lvuO+zSE91xNm01DROV6+ekDcHTBcR5ziUZl8mBxirNxAbrPhj0XXUqyejelu1LtquOxJcDA==" />
     </item>
   </channel>
 </rss>
