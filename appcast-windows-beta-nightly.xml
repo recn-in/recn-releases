@@ -3,12 +3,12 @@
   <channel>
     <title>RECN Rec</title>
     <item>
-      <title>v0.0.1-beta-nightly.119</title>
-      <pubDate>Wed, 05 Aug 2026 03:50:19 +0000</pubDate>
-      <sparkle:version>0.0.1+119</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.119</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.119</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.119/recn-rec-desktop-setup-0.0.1-beta-nightly.119.exe" length="25075896" type="application/octet-stream" />
+      <title>v0.0.1-beta-nightly.121</title>
+      <pubDate>Fri, 07 Aug 2026 04:10:09 +0000</pubDate>
+      <sparkle:version>0.0.1+121</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.121</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.121</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.121/recn-rec-desktop-setup-0.0.1-beta-nightly.121.exe" length="33074761" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
