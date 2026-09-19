@@ -11,6 +11,14 @@ fail() { echo "recn: $*" >&2; exit 1; }
 
 [ "$(uname -s)" = Darwin ] || fail "this installer is for macOS; get other builds at https://github.com/recn-in/recn-releases/releases"
 command -v brew >/dev/null || fail "Homebrew is required; install it from https://brew.sh and run this again"
+[ "$(id -u)" != 0 ] || fail "run this without sudo; Homebrew refuses to run as root and will ask for admin access itself if it needs it"
+
+# Homebrew falls back to sudo when it cannot write /Applications. Ask up front
+# so the password prompt comes with a reason instead of mid-install.
+if [ ! -w /Applications ]; then
+  echo "recn: /Applications needs admin access to install RECN."
+  sudo -v </dev/tty || fail "admin access was not granted; ask an admin to run this, or make /Applications writable"
+fi
 
 # Retries network steps: GitHub and the release CDN drop the odd request.
 retry() {
