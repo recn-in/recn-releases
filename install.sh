@@ -11,13 +11,13 @@ fail() { echo "recn: $*" >&2; exit 1; }
 
 cat <<'ART'
 
-     .-'''-.                 .-'''-.
-    /  .-.  \ _____________ /  .-.  \
-   |  ( o )  |   R E C N   |  ( o )  |
-    \  '-'  / _____________ \  '-'  /
-     '-...-'                 '-...-'
+      ●───●───●───●
+     ╱ ╲ ╱ ╲ ╱ ╲ ╱ ╲
+    ●───●───●───●───●     R E C N
+     ╲ ╱ ╲ ╱ ╲ ╱ ╲ ╱      every device, one mesh
+      ●───●───●───●
 
-   Rolling tape… installing RECN Rec.
+   Joining the lattice… installing RECN Rec.
 
 ART
 
