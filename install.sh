@@ -7,6 +7,7 @@ TAP=recn-in/recn
 TAP_URL=https://github.com/recn-in/recn-releases
 CASK="$TAP/recn-rec"
 APP="RECN Rec"
+SITE=https://recn-in.github.io/recn-website/download/
 LOG=$(mktemp -t recn-install)
 
 # `curl | bash` leaves stdin as the pipe, so prompts and animation go through
@@ -18,13 +19,28 @@ else
 fi
 [ -z "$TTY" ] || { printf '\033[?25l'; trap 'printf "\033[?25h"' EXIT; }
 
+# A company Mac: managed by MDM, or the person at the keyboard isn't an admin.
+if profiles status -type enrollment 2>/dev/null | grep -q 'MDM enrollment: Yes' || ! id -Gn | tr ' ' '\n' | grep -qx admin; then
+  CORP=1
+else
+  CORP=
+fi
+
 fail() {
   printf '\n   %s✗ %s%s\n' "$RED" "$*" "$OFF" >&2
   if [ -s "$LOG" ]; then
     printf '   %slast lines of %s:%s\n' "$DIM" "$LOG" "$OFF" >&2
     tail -n 15 "$LOG" | sed 's/^/     /' >&2
   fi
+  [ -z "$CORP" ] || corporate >&2
   exit 1
+}
+
+corporate() {
+  printf '\n   %sThis looks like a work laptop.%s\n' "$BLD" "$OFF"
+  printf '   RECN is for people who make art, not quarterly decks.\n'
+  printf '   If you are sneaking a song in between meetings, respect. Ask IT nicely,\n'
+  printf '   or catch us on your own machine: %s\n\n' "$SITE"
 }
 
 prompt() { # prompt "text" -> REPLY, read from the terminal
@@ -97,7 +113,13 @@ printf '\n   %sJoining the lattice…%s\n\n' "$DIM" "$OFF"
 
 # ── preflight ───────────────────────────────────────────────────────────────
 [ "$(uname -s)" = Darwin ] || fail "this installer is for macOS; get other builds at https://github.com/recn-in/recn-releases/releases"
-command -v brew >/dev/null || fail "Homebrew is required; install it from https://brew.sh and run this again"
+if ! command -v brew >/dev/null; then
+  if [ -n "$CORP" ]; then corporate; exit 1; fi
+  printf '   %sNo Homebrew here.%s The lattice has another door.\n' "$BLD" "$OFF"
+  printf '   Grab the app from the website, drag it to Applications, hit record:\n\n'
+  printf '     %s%s%s\n\n' "$RED" "$SITE" "$OFF"
+  exit 1
+fi
 [ "$(id -u)" != 0 ] || fail "run this without sudo; Homebrew refuses to run as root and will ask for admin access itself if it needs it"
 
 if brew list --cask recn-rec >/dev/null 2>&1; then
