@@ -9,6 +9,18 @@ CASK="$TAP/recn-rec"
 
 fail() { echo "recn: $*" >&2; exit 1; }
 
+cat <<'ART'
+
+     .-'''-.                 .-'''-.
+    /  .-.  \ _____________ /  .-.  \
+   |  ( o )  |   R E C N   |  ( o )  |
+    \  '-'  / _____________ \  '-'  /
+     '-...-'                 '-...-'
+
+   Rolling tape… installing RECN Rec.
+
+ART
+
 [ "$(uname -s)" = Darwin ] || fail "this installer is for macOS; get other builds at https://github.com/recn-in/recn-releases/releases"
 command -v brew >/dev/null || fail "Homebrew is required; install it from https://brew.sh and run this again"
 [ "$(id -u)" != 0 ] || fail "run this without sudo; Homebrew refuses to run as root and will ask for admin access itself if it needs it"
@@ -48,4 +60,13 @@ else
   retry brew install --cask "$CASK"
 fi
 
-echo "recn: RECN is installed in /Applications."
+cat <<'THANKS'
+
+   ▶ RECN Rec is in /Applications. Hit record.
+
+   Thank you for trying RECN.
+   Every take you capture makes it better.
+
+                        — team recn ♥
+
+THANKS
