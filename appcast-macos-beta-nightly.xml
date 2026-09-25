@@ -3,13 +3,13 @@
   <channel>
     <title>RECN Rec</title>
     <item>
-      <title>v0.0.1-beta-nightly.299</title>
-      <pubDate>Fri, 25 Sep 2026 15:56:58 +0000</pubDate>
-      <sparkle:version>299</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.299</sparkle:shortVersionString>
+      <title>v0.0.1-beta-nightly.300</title>
+      <pubDate>Fri, 25 Sep 2026 17:33:43 +0000</pubDate>
+      <sparkle:version>300</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.300</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.299</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.299/RECN-Rec-0.0.1-beta-nightly.299.dmg" length="87727947" type="application/octet-stream" sparkle:edSignature="B6W0ftHW6e6Vjr0jtiGrQAdeRB/ypgr1Swmsfhqc51Q1NaKwmwuzMEe2OA6CRBAK//YsZV+bUEUFDLU52TV7CQ==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.1-beta-nightly.300</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.1-beta-nightly.300/RECN-Rec-0.0.1-beta-nightly.300.dmg" length="87733418" type="application/octet-stream" sparkle:edSignature="rEg92vUJBu1vwN1jmc7VVLVzyhlruQSwfLgJd9VIwC7m6e1WkA9zOFyUSZpcM3pAc8du9V3Eb20PVe6jkVR2AA==" />
     </item>
   </channel>
 </rss>
