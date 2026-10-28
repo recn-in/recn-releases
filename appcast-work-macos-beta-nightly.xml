@@ -3,13 +3,13 @@
   <channel>
     <title>RECN Rec</title>
     <item>
-      <title>work-v0.0.1-beta-nightly.370</title>
-      <pubDate>Wed, 28 Oct 2026 05:13:16 +0000</pubDate>
-      <sparkle:version>370</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.370</sparkle:shortVersionString>
+      <title>work-v0.0.1-beta-nightly.371</title>
+      <pubDate>Wed, 28 Oct 2026 05:29:45 +0000</pubDate>
+      <sparkle:version>371</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.371</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.1-beta-nightly.370</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.1-beta-nightly.370/RECN-Work-0.0.1-beta-nightly.370.dmg" length="48696635" type="application/octet-stream" sparkle:edSignature="ZnHMA7RJK4iQRGuxhjudgdUBM2gReB5nEHIgYpDe9lQ/xYtW47Irf/CBTJakGYqIBLl3tD56sbC8Y7+AbTRxDQ==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.1-beta-nightly.371</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.1-beta-nightly.371/RECN-Work-0.0.1-beta-nightly.371.dmg" length="48696818" type="application/octet-stream" sparkle:edSignature="d9hTu8nnZMpwdDhYJDYmaSWmdZYHqhFiT4xPj9ATd4ScDvWN2WwVkT/0e1n22kNMLyY9OKl/afjbXEQ7tWpQCg==" />
     </item>
   </channel>
 </rss>
