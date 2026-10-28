@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>RECN Rec</title>
+    <item>
+      <title>work-v0.0.1-beta-nightly.353</title>
+      <pubDate>Wed, 28 Oct 2026 01:48:15 +0000</pubDate>
+      <sparkle:version>353</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.353</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.1-beta-nightly.353</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.1-beta-nightly.353/RECN-Work-0.0.1-beta-nightly.353.dmg" length="49119443" type="application/octet-stream" sparkle:edSignature="nA+2nIHtmCe4gPzuX8/vAuSIXlmqN82fX5+LGvSFKaNypJj7N1TWZU5ClREoLWdQEDZY+YfTN1mzfXYAX+4KDQ==" />
+    </item>
+  </channel>
+</rss>
