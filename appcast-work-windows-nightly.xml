@@ -3,12 +3,12 @@
   <channel>
     <title>RECN Rec</title>
     <item>
-      <title>work-v0.0.1-beta-nightly.357</title>
-      <pubDate>Wed, 28 Oct 2026 02:37:01 +0000</pubDate>
-      <sparkle:version>0.0.1+357</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.357</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.1-beta-nightly.357</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.1-beta-nightly.357/recn-work-desktop-setup-0.0.1-beta-nightly.357.exe" length="22017663" type="application/octet-stream" />
+      <title>work-v0.0.1-beta-nightly.366</title>
+      <pubDate>Wed, 28 Oct 2026 04:09:59 +0000</pubDate>
+      <sparkle:version>0.0.1+366</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.366</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.1-beta-nightly.366</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.1-beta-nightly.366/recn-work-desktop-setup-0.0.1-beta-nightly.366.exe" length="22043497" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
