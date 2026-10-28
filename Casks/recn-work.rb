@@ -1,8 +1,8 @@
 cask "recn-work" do
-  version "0.0.2-beta-nightly.386"
-  sha256 "0045276034c3abad403b1bc8b7c630c65f690126b084da66a6b81b47334695aa"
+  version "0.0.2-beta-nightly.397"
+  sha256 "8c4f648e01cf63a9a9e931bf7fade0cf166c1a46cd0509315b443613debf01fe"
 
-  url "https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.386/RECN-Work-0.0.2-beta-nightly.386.dmg"
+  url "https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.397/RECN-Work-0.0.2-beta-nightly.397.dmg"
   name "Work"
   desc "Recorder, notes and sessions synced across your devices"
   homepage "https://recn.app/"
