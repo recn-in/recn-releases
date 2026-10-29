@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>RECN Rec</title>
+    <title>Rec</title>
     <item>
-      <title>v0.0.2-beta-nightly.421</title>
-      <pubDate>Wed, 28 Oct 2026 18:25:11 +0000</pubDate>
-      <sparkle:version>0.0.2+421</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.421</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.421</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.421/recn-rec-desktop-setup-0.0.2-beta-nightly.421.exe" length="40400736" type="application/octet-stream" />
+      <title>v0.0.2-beta-nightly.424</title>
+      <pubDate>Thu, 29 Oct 2026 17:37:50 +0000</pubDate>
+      <sparkle:version>0.0.2+424</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.424</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.424</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.424/recn-rec-desktop-setup-0.0.2-beta-nightly.424.exe" length="40409731" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
