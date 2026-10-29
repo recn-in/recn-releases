@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>RECN Rec</title>
+    <title>Work</title>
     <item>
-      <title>work-v0.0.2-beta-nightly.423</title>
-      <pubDate>Thu, 29 Oct 2026 17:16:24 +0000</pubDate>
-      <sparkle:version>423</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.423</sparkle:shortVersionString>
+      <title>work-v0.0.2-beta-nightly.424</title>
+      <pubDate>Thu, 29 Oct 2026 17:32:59 +0000</pubDate>
+      <sparkle:version>424</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.424</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.423</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.423/RECN-Work-0.0.2-beta-nightly.423.dmg" length="48612488" type="application/octet-stream" sparkle:edSignature="HeHzeWHcPOG/5ZoC5+RtNxdgiVtddNP5QPMs2ZdWS/TN5enfGVpi/m4VTD51e4WZdtJaSG5RLJv14TAgv0fOAw==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.424</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.424/RECN-Work-0.0.2-beta-nightly.424.dmg" length="48612401" type="application/octet-stream" sparkle:edSignature="CZdQ2nXXlKs6I9id9yebQyfCVSpKACjUVh7VCg4wHWDCSQreXAeyp8JoJDiQxXbANmdKGUSK9EYAbRDxv5FqDg==" />
     </item>
   </channel>
 </rss>
