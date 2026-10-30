@@ -1,8 +1,8 @@
 cask "recn-work" do
-  version "0.0.2-beta-nightly.446"
-  sha256 "87647b079d1dbc9f3aac4882fad164f4ec7e652c5f3ad25e000a831deb450a74"
+  version "0.0.2-beta-nightly.447"
+  sha256 "4bdb926ed4d6b56b5c0687e04c51dbc22c192c1112145fbe8f39e9bcb5102e92"
 
-  url "https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.446/RECN-Work-0.0.2-beta-nightly.446.dmg"
+  url "https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.447/RECN-Work-0.0.2-beta-nightly.447.dmg"
   name "Work"
   desc "Notes and drawings synced across your devices"
   homepage "https://recn.app/"
