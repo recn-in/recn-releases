@@ -3,13 +3,13 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.2-beta-nightly.433</title>
-      <pubDate>Fri, 30 Oct 2026 00:50:58 +0000</pubDate>
-      <sparkle:version>433</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.433</sparkle:shortVersionString>
+      <title>v0.0.2-beta-nightly.435</title>
+      <pubDate>Fri, 30 Oct 2026 01:08:26 +0000</pubDate>
+      <sparkle:version>435</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.435</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.433</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.433/RECN-Rec-0.0.2-beta-nightly.433.dmg" length="89148896" type="application/octet-stream" sparkle:edSignature="sDWbg89/Fffb2PUJFevt4+wVs+l/o4iFu5icApPkm+3n+EnxVrLdAYuSCLHqUQKltut417xoXpmJiQbXRsdiAA==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.435</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.435/RECN-Rec-0.0.2-beta-nightly.435.dmg" length="89139897" type="application/octet-stream" sparkle:edSignature="E9V4aLDwiD0PfPkrYQBMneFrIpRhMnJ9QF/W4yNDHogUNB65+X2FObvUdVm1zqPSHkctx2zEK9+mqgpY79NdCg==" />
     </item>
   </channel>
 </rss>
