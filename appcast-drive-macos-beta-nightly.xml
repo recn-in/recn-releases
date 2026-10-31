@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Drive</title>
+    <item>
+      <title>drive-v0.0.1-beta-nightly.486</title>
+      <pubDate>Sat, 31 Oct 2026 12:06:21 +0000</pubDate>
+      <sparkle:version>486</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.486</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.486</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.486/RECN-Drive-0.0.1-beta-nightly.486.dmg" length="39212621" type="application/octet-stream" sparkle:edSignature="wqKW3n9waMyfhzqQJureTnV/lXpSOx2aoE/klcb98dOssj3yXAUnUFlQbxtWOTZr65ZsjH3NNAWukHDPXZeNCw==" />
+    </item>
+  </channel>
+</rss>
