@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Photos</title>
+    <item>
+      <title>photos-v0.0.1-beta-nightly.486</title>
+      <pubDate>Sat, 31 Oct 2026 12:05:46 +0000</pubDate>
+      <sparkle:version>486</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.486</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/photos-v0.0.1-beta-nightly.486</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.486/RECN-Photos-0.0.1-beta-nightly.486.dmg" length="39295350" type="application/octet-stream" sparkle:edSignature="D5cjUFftK8iQfJZ+BzkfsY7JYtnObrpi6r2vNtqSaJW8vuBv7kLEwbBbJJV7nRPukYGVbhurjNLZZcILnW/OBQ==" />
+    </item>
+  </channel>
+</rss>
