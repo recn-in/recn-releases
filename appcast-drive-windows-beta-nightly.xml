@@ -3,12 +3,12 @@
   <channel>
     <title>Drive</title>
     <item>
-      <title>drive-v0.0.1-beta-nightly.495</title>
-      <pubDate>Sat, 31 Oct 2026 15:39:15 +0000</pubDate>
-      <sparkle:version>0.0.1+495</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.495</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.495</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.495/recn-drive-desktop-setup-0.0.1-beta-nightly.495.exe" length="18093275" type="application/octet-stream" />
+      <title>drive-v0.0.1-beta-nightly.496</title>
+      <pubDate>Sat, 31 Oct 2026 15:58:41 +0000</pubDate>
+      <sparkle:version>0.0.1+496</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.496</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.496</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.496/recn-drive-desktop-setup-0.0.1-beta-nightly.496.exe" length="18098405" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
