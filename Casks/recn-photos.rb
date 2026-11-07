@@ -1,8 +1,8 @@
 cask "recn-photos" do
-  version "0.0.1-beta-nightly.507"
-  sha256 "8cef0cbf5ff5ccd46e3cbe09438479e093624c4d9192293acd69612cbb17ff48"
+  version "0.0.1-beta-nightly.509"
+  sha256 "095d2bd6701739c6a52dd92982d0c0efe6eb1cd75061c4997ac89e26f13de23f"
 
-  url "https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.507/RECN-Photos-0.0.1-beta-nightly.507.dmg"
+  url "https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.509/RECN-Photos-0.0.1-beta-nightly.509.dmg"
   name "Photos"
   desc "Recorder, notes and sessions synced across your devices"
   homepage "https://recn.app/"
