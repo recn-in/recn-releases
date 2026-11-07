@@ -3,13 +3,13 @@
   <channel>
     <title>Photos</title>
     <item>
-      <title>photos-v0.0.1-beta-nightly.506</title>
-      <pubDate>Sat, 07 Nov 2026 07:24:22 +0000</pubDate>
-      <sparkle:version>506</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.506</sparkle:shortVersionString>
+      <title>photos-v0.0.1-beta-nightly.507</title>
+      <pubDate>Sat, 07 Nov 2026 07:38:35 +0000</pubDate>
+      <sparkle:version>507</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.507</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/photos-v0.0.1-beta-nightly.506</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.506/RECN-Photos-0.0.1-beta-nightly.506.dmg" length="39365217" type="application/octet-stream" sparkle:edSignature="pBzk5VnMnv9ka29q+unZcfprIm3ccTxgVr3lAPZhmaSjhvCEtalLANhuQ/nz+J4E88ptkSOY2I+3Qm0cx5RsAQ==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/photos-v0.0.1-beta-nightly.507</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.507/RECN-Photos-0.0.1-beta-nightly.507.dmg" length="39233172" type="application/octet-stream" sparkle:edSignature="yLgVtnGX0slzMEV5jtujRuTI14UuviL+CQZH/XsKhOocHDZJmMDKOI1wmkzepKwNtLTX1oE/nC++qEHTLaxbCQ==" />
     </item>
   </channel>
 </rss>
