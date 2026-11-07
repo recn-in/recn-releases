@@ -3,12 +3,12 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.2-beta-nightly.506</title>
-      <pubDate>Sat, 07 Nov 2026 07:26:47 +0000</pubDate>
-      <sparkle:version>0.0.2+506</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.506</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.506</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.506/recn-rec-desktop-setup-0.0.2-beta-nightly.506.exe" length="40536785" type="application/octet-stream" />
+      <title>v0.0.2-beta-nightly.507</title>
+      <pubDate>Sat, 07 Nov 2026 07:40:24 +0000</pubDate>
+      <sparkle:version>0.0.2+507</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.507</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.507</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.507/recn-rec-desktop-setup-0.0.2-beta-nightly.507.exe" length="40502793" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
