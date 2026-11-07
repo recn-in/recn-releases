@@ -3,12 +3,12 @@
   <channel>
     <title>Photos</title>
     <item>
-      <title>photos-v0.0.1-beta-nightly.505</title>
-      <pubDate>Sat, 07 Nov 2026 07:06:42 +0000</pubDate>
-      <sparkle:version>0.0.1+505</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.505</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/photos-v0.0.1-beta-nightly.505</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.505/recn-photos-desktop-setup-0.0.1-beta-nightly.505.exe" length="18162590" type="application/octet-stream" />
+      <title>photos-v0.0.1-beta-nightly.506</title>
+      <pubDate>Sat, 07 Nov 2026 07:24:22 +0000</pubDate>
+      <sparkle:version>0.0.1+506</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.506</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/photos-v0.0.1-beta-nightly.506</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/photos-v0.0.1-beta-nightly.506/recn-photos-desktop-setup-0.0.1-beta-nightly.506.exe" length="18160708" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
