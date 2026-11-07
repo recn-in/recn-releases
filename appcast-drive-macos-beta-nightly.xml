@@ -3,13 +3,13 @@
   <channel>
     <title>Drive</title>
     <item>
-      <title>drive-v0.0.1-beta-nightly.507</title>
-      <pubDate>Sat, 07 Nov 2026 07:38:33 +0000</pubDate>
-      <sparkle:version>507</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.507</sparkle:shortVersionString>
+      <title>drive-v0.0.1-beta-nightly.509</title>
+      <pubDate>Sat, 07 Nov 2026 08:31:50 +0000</pubDate>
+      <sparkle:version>509</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.509</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.507</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.507/RECN-Drive-0.0.1-beta-nightly.507.dmg" length="39155436" type="application/octet-stream" sparkle:edSignature="lTW1CTe7glGZgEuBe0xoD9n3nrpSN+wliEBCJl/9TihqIa/FtlfAV4IQZ7PrBJGzFcPUwq2bG9xgzNvHhZ/RCA==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.509</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.509/RECN-Drive-0.0.1-beta-nightly.509.dmg" length="39160622" type="application/octet-stream" sparkle:edSignature="iOga3/WjjBB1OqyGvIK/UCUDwVwpTLr1ldX4RG+7wH+ks4c2pbTVJ+lPkxhtiBU6NymU4zUCeYBawFrImGDfBw==" />
     </item>
   </channel>
 </rss>
