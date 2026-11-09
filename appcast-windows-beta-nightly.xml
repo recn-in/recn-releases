@@ -3,12 +3,12 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.2-beta-nightly.516</title>
-      <pubDate>Mon, 09 Nov 2026 04:42:32 +0000</pubDate>
-      <sparkle:version>0.0.2+516</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.516</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.516</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.516/recn-rec-desktop-setup-0.0.2-beta-nightly.516.exe" length="39728875" type="application/octet-stream" sparkle:edSignature="dwAYE2CILzS8vaIqJ46rzcJIHRxvCzEN5d5sR/P+HleOg9k+AJuIzhHVdasTeRTiZ3MUjYYKl7K7tCsIMj5yCQ==" />
+      <title>v0.0.2-beta-nightly.518</title>
+      <pubDate>Mon, 09 Nov 2026 05:03:11 +0000</pubDate>
+      <sparkle:version>0.0.2+518</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.518</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.2-beta-nightly.518</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.2-beta-nightly.518/recn-rec-desktop-setup-0.0.2-beta-nightly.518.exe" length="39731585" type="application/octet-stream" sparkle:edSignature="jebBizK4/cAwahe8VkFwjXPqQRrAo2yNpIMl4alehgj16ioO1yTkq3cvydT6rZaGSLGWW5bpRC8MDPWql6OuDg==" />
     </item>
   </channel>
 </rss>
