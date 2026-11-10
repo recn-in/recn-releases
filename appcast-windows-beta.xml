@@ -3,12 +3,12 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.3-beta</title>
-      <pubDate>Tue, 10 Nov 2026 04:11:58 +0000</pubDate>
-      <sparkle:version>0.0.3+541</sparkle:version>
-      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.3-beta</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.3-beta/recn-rec-desktop-setup-0.0.3.exe" length="40026749" type="application/octet-stream" sparkle:edSignature="OV0lZMjyB10DEk3y5bxVcLVd420hC3k2Xk5EI5VTIFYCCMGMM47XoBSsfYBqNLENdTCN5aRBXUALDOPZR4D1Cw==" />
+      <title>v0.0.4-beta</title>
+      <pubDate>Tue, 10 Nov 2026 04:40:50 +0000</pubDate>
+      <sparkle:version>0.0.4+543</sparkle:version>
+      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.4-beta</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta/recn-rec-desktop-setup-0.0.4.exe" length="40023150" type="application/octet-stream" sparkle:edSignature="AGNWV3EVG/Bbpc+ccKNUEIjwjs3Cj91lUNJSVHgJUPGA9oz7x0EuM0JQuGXIfPXXgLXp7mNul4yLCeKRz/2FAA==" />
     </item>
   </channel>
 </rss>
