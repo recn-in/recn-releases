@@ -1,8 +1,8 @@
 cask "recn-rec" do
-  version "0.0.4-beta-nightly.570"
-  sha256 "d70380264a0c71d03ceec38475cb749627f5a2ae459418c5345c63af357c66b9"
+  version "0.0.4-beta-nightly.571"
+  sha256 "82ae65b6216a3630519b65354b1970902ddc0648f6e768cbed453a9e2f676569"
 
-  url "https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.570/RECN-Rec-0.0.4-beta-nightly.570.dmg"
+  url "https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.571/RECN-Rec-0.0.4-beta-nightly.571.dmg"
   name "Rec"
   desc "Recorder, notes and sessions synced across your devices"
   homepage "https://recn.app/"
