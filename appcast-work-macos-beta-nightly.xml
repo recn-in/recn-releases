@@ -3,13 +3,13 @@
   <channel>
     <title>Work</title>
     <item>
-      <title>work-v0.0.2-beta-nightly.567</title>
-      <pubDate>Thu, 12 Nov 2026 14:14:04 +0000</pubDate>
-      <sparkle:version>567</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.567</sparkle:shortVersionString>
+      <title>work-v0.0.2-beta-nightly.570</title>
+      <pubDate>Thu, 12 Nov 2026 14:33:57 +0000</pubDate>
+      <sparkle:version>570</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.570</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.567</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.567/RECN-Work-0.0.2-beta-nightly.567.dmg" length="49751930" type="application/octet-stream" sparkle:edSignature="In3DjoNaha4egcsoqyNNX70tFsgjL3e10dMaugncUXJ/5AtTC9olunXZXwVvoANe17ZSgiTSVrDMUu1QrUuPBQ==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.570</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.570/RECN-Work-0.0.2-beta-nightly.570.dmg" length="49763227" type="application/octet-stream" sparkle:edSignature="FRSLgxx1sNSm8GmjiV2UJYQsDx6L7zmJVr1AMO4ObghlzWEpDmwIdIWLmuQUoELbW/O2hib78prIcGWlNJOsBg==" />
     </item>
   </channel>
 </rss>
