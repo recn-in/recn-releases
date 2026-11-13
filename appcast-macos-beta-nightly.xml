@@ -3,13 +3,13 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.4-beta-nightly.584</title>
-      <pubDate>Fri, 13 Nov 2026 04:24:16 +0000</pubDate>
-      <sparkle:version>584</sparkle:version>
-      <sparkle:shortVersionString>0.0.4-beta-nightly.584</sparkle:shortVersionString>
+      <title>v0.0.4-beta-nightly.587</title>
+      <pubDate>Fri, 13 Nov 2026 05:19:16 +0000</pubDate>
+      <sparkle:version>587</sparkle:version>
+      <sparkle:shortVersionString>0.0.4-beta-nightly.587</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.4-beta-nightly.584</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.584/RECN-Rec-0.0.4-beta-nightly.584.dmg" length="90501499" type="application/octet-stream" sparkle:edSignature="72+uxiwDBeQMUgeN/wuAzwlKYA6GQFmII0SdHo+M4Q+1linQJTSwzQkqepnXI8MwPTjtMATBFAoKOBl+dGYOCQ==" />
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.4-beta-nightly.587</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.587/RECN-Rec-0.0.4-beta-nightly.587.dmg" length="90511990" type="application/octet-stream" sparkle:edSignature="xX11Fb594AuV2A1qee6PhLvnLfLRe84HJbAbVbUhP7PU+CTaD9guPG69s0L8Mre9T1Fjk7vt3PW91VAmPneeCg==" />
     </item>
   </channel>
 </rss>
