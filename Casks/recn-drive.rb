@@ -1,8 +1,8 @@
 cask "recn-drive" do
-  version "0.0.1-beta-nightly.593"
-  sha256 "6b557066f7bbe4ea5a3523296bb62614a43752b394d0a674e0af791e7140d6ec"
+  version "0.0.1-beta-nightly.594"
+  sha256 "c7683b8efd7508cf14e26332ab88011b938a458681ede0584da39b934d863411"
 
-  url "https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.593/RECN-Drive-0.0.1-beta-nightly.593.dmg"
+  url "https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.594/RECN-Drive-0.0.1-beta-nightly.594.dmg"
   name "Drive"
   desc "Recorder, notes and sessions synced across your devices"
   homepage "https://recn.app/"
