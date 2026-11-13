@@ -3,12 +3,12 @@
   <channel>
     <title>Work</title>
     <item>
-      <title>work-v0.0.2-beta-nightly.591</title>
-      <pubDate>Fri, 13 Nov 2026 07:26:27 +0000</pubDate>
-      <sparkle:version>0.0.2+591</sparkle:version>
-      <sparkle:shortVersionString>0.0.2-beta-nightly.591</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.591</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.591/recn-work-desktop-setup-0.0.2-beta-nightly.591.exe" length="21247509" type="application/octet-stream" sparkle:edSignature="jKxkc5CHgoPWA/s7/YCyl4+NRZrCRwK0uKLVCgqO32n4LW3KR7CJqaud9W8XmcLmo5WYcAAp7u/bGbA15/H5DA==" />
+      <title>work-v0.0.2-beta-nightly.592</title>
+      <pubDate>Fri, 13 Nov 2026 12:50:21 +0000</pubDate>
+      <sparkle:version>0.0.2+592</sparkle:version>
+      <sparkle:shortVersionString>0.0.2-beta-nightly.592</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/work-v0.0.2-beta-nightly.592</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/work-v0.0.2-beta-nightly.592/recn-work-desktop-setup-0.0.2-beta-nightly.592.exe" length="21245176" type="application/octet-stream" sparkle:edSignature="b0V0xWXfcJsOrWQHbu01nn59fJZSqmC0aBI8XQ/Tgoq9z0HlVa+SgTIF1AfR3fx/5dGPrPoynJPTPzK7p8MrBg==" />
     </item>
   </channel>
 </rss>
