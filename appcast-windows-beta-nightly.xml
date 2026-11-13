@@ -3,12 +3,12 @@
   <channel>
     <title>Rec</title>
     <item>
-      <title>v0.0.4-beta-nightly.583</title>
-      <pubDate>Fri, 13 Nov 2026 04:12:18 +0000</pubDate>
-      <sparkle:version>0.0.4+583</sparkle:version>
-      <sparkle:shortVersionString>0.0.4-beta-nightly.583</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.4-beta-nightly.583</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.583/recn-rec-desktop-setup-0.0.4-beta-nightly.583.exe" length="40107149" type="application/octet-stream" sparkle:edSignature="mgWMgueieNSdltw5TtXAYyO/xV11Xyl4jqbOoHgYa3XxRSzWR/c95nf7fNjGP40ohyvbPYYm/F0zp2CP/Un9Ag==" />
+      <title>v0.0.4-beta-nightly.584</title>
+      <pubDate>Fri, 13 Nov 2026 04:24:16 +0000</pubDate>
+      <sparkle:version>0.0.4+584</sparkle:version>
+      <sparkle:shortVersionString>0.0.4-beta-nightly.584</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/v0.0.4-beta-nightly.584</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/v0.0.4-beta-nightly.584/recn-rec-desktop-setup-0.0.4-beta-nightly.584.exe" length="40093360" type="application/octet-stream" sparkle:edSignature="oK/ybIbgudb0kj0y4gde+M93//Z3W6NEFAs2qzir64vk0yQDIAO8A3m5rKM+v98u/kXO1m6o6FwPODmSM45XAw==" />
     </item>
   </channel>
 </rss>
