@@ -3,12 +3,12 @@
   <channel>
     <title>Drive</title>
     <item>
-      <title>drive-v0.0.1-beta-nightly.606</title>
-      <pubDate>Fri, 27 Nov 2026 09:05:41 +0000</pubDate>
-      <sparkle:version>0.0.1+606</sparkle:version>
-      <sparkle:shortVersionString>0.0.1-beta-nightly.606</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.606</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.606/recn-drive-desktop-setup-0.0.1-beta-nightly.606.exe" length="32437869" type="application/octet-stream" sparkle:edSignature="Z/IkXBRep1arSoCBAevBaeOGT0d1WNVwFeZxLFnU0WCXWno0sPWasUGmjrN+LD5BIKaAvKS3MVC+88hdQjogDg==" />
+      <title>drive-v0.0.1-beta-nightly.607</title>
+      <pubDate>Fri, 27 Nov 2026 11:40:11 +0000</pubDate>
+      <sparkle:version>0.0.1+607</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta-nightly.607</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/recn-in/recn-releases/releases/tag/drive-v0.0.1-beta-nightly.607</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/recn-in/recn-releases/releases/download/drive-v0.0.1-beta-nightly.607/recn-drive-desktop-setup-0.0.1-beta-nightly.607.exe" length="32436449" type="application/octet-stream" sparkle:edSignature="7/lyIG3KGsM36UDxHZZBkESYIl2d9DpqVHKeUAYTG0YR0xMhKHDW/RTAPwb3DfRQn9dQk4vsefkIRNbKmeKBAw==" />
     </item>
   </channel>
 </rss>
